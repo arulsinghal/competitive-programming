@@ -1,3 +1,10 @@
+/*	
+problem name: polycarp's practice
+Link: https://codeforces.com/problemset/problem/1006/B
+Topic: greedy, sorting
+*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
