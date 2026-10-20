@@ -2,6 +2,7 @@
  * Problem: Equal Audience Love / Disjoint Triads
  * Platform: Codeforces
  * Key Concept: Prefix Frequency Map (unordered_map) + Offset Filtering
+ * Link: https://codeforces.com/problemset/problem/2275/C
  * 
  * Logic Summary:
  * - Triads at x and y overlap if y - x == 2 or y - x == 4.
