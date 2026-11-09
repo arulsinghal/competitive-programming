@@ -1,5 +1,15 @@
-
-
+/**
+ * Problem: Party
+ * Platform: Codeforces
+ * Key Concept: Ordered graph and dfs
+ * Link: https://codeforces.com/problemset/problem/115/A
+ * 
+ * Logic Summary:
+ * - make a vector for "roots", ie, top bosses.
+ * - make a dfs function that inputs height of node and a node.
+ * - height starts at 1 and does recursive behaviour as we go deeper in the graph.
+ * - update maximum height as we recurse.
+ */
 
 #include <bits/stdc++.h>
 using namespace std;
